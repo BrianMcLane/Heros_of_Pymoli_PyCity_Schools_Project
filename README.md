@@ -1,2 +1,1 @@
-# pandas-challenge
-DataAnalyticsClass Hmwk
+# Heros_of_Pymoli_PyCity_Schools_Project
