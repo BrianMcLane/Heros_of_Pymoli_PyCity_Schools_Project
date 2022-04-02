@@ -10,3 +10,7 @@ Heros of Pymoli:
 
 PyCity Schools:
   We were helping the  school board and mayor make strategic decisions regarding future school budgets and priorities. We were asked to analyze the district-wide standardized test results. we were given access to every student's math and reading scores, as well as various information on the schools they attend. We needed to aggregate the data to and showcase obvious trends in school performance.
+
+<img width="1178" alt="Screen Shot 2022-04-02 at 6 23 44 PM" src="https://user-images.githubusercontent.com/85032280/161404979-66e18621-07c7-4c28-98c3-a087890ae143.png">
+<img width="1238" alt="Screen Shot 2022-04-02 at 6 24 07 PM" src="https://user-images.githubusercontent.com/85032280/161404980-57c1fae1-63fb-4f97-bca2-16c72050e80d.png">
+<img width="755" alt="Screen Shot 2022-04-02 at 6 24 47 PM" src="https://user-images.githubusercontent.com/85032280/161404981-7621f31f-92cf-4d77-9ecc-13fff75014ea.png">
